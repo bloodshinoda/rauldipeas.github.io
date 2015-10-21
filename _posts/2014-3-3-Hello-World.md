@@ -3,7 +3,7 @@ layout: post
 title: Você está online!
 ---
 
-À seguir você pode atualizar o nome do seu site, sua imagem de perfil e outras opções editando o arquivo "_config.ym"l na pasta raíz do seu repositório(conforme exibido à baixo).
+À seguir você pode atualizar o nome do seu site, sua imagem de perfil e outras opções editando o arquivo "_config.yml" na pasta raíz do seu repositório(conforme exibido à baixo).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
