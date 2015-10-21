@@ -7,4 +7,4 @@ title: Você está online!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-O meu mais fácil de fazer sua primeira postagem é editar este arquivo. Vá até a pasta /_posts/ e atualize o arquivo markdown "Hello World". Para mais instruções, dê uma olhada no [repositório Jekyll Now](https://github.com/barryclark/jekyll-now) no GitHub
+O método mais fácil de fazer sua primeira postagem é editar este arquivo. Vá até a pasta /_posts/ e atualize o arquivo markdown "Hello World". Para mais instruções, dê uma olhada no [repositório Jekyll Now](https://github.com/barryclark/jekyll-now) no GitHub
