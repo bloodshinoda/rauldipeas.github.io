@@ -23,7 +23,7 @@ sudo parted /dev/sdX set 1 boot on
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=djW5N4MYxjs" target="_blank">
-<img src="http://img.youtube.com/vi/djW5N4MYxjs/0.jpg" width="100%" height="270"/></a>
+<img src="http://img.youtube.com/vi/djW5N4MYxjs/0.jpg" width="100%" height="480"/></a>
 
 <object width="560" height="315">
 <param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;hd=1"></param>
