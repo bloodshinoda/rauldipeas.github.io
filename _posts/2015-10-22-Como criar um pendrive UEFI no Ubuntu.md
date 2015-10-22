@@ -26,8 +26,8 @@ sudo parted /dev/sdX set 1 boot on
 <img src="http://img.youtube.com/vi/djW5N4MYxjs/0.jpg" alt="Como criar um pendrive UEFI no Ubuntu" width="560" height="315" border="0"/></a>
 
 <object width="560" height="315">
-<param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1"></param>
+<param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;hd=1"></param>
 <param name="allowFullScreen" value="true"></param>
 <param name="allowscriptaccess" value="always"></param>
-<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1" type="application/html5" allowscriptaccess="always" allowfullscreen="true" width="560" height="315"></embed>
+<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;hd=1" allowscriptaccess="always" allowfullscreen="true" width="560" height="315"></embed>
 </object>
