@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como criar um pendrive UEFI no Ubuntu
+title: Como criar um pendrive UEFI no Ubutu
 ---
 
 Eu havia tentado de várias formas executar esse procedimento, mas sem sucesso, usei programas como UNetBootIn, DD, GNOME Disks, o Criador de discos do Ubuntu, entre outros...
@@ -22,8 +22,8 @@ sudo 7z x ubuntu-15.04-desktop-amd64.iso -o/mnt
 sudo parted /dev/sdX set 1 boot on
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=djW5N4MYxjs" target="_blank"><img src="http://img.youtube.com/vi/djW5N4MYxjs/0.jpg" 
-alt="Como criar um pendrive UEFI no Ubuntu" width="560" height="180" border="315" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=djW5N4MYxjs" target="_blank">
+<img src="http://img.youtube.com/vi/djW5N4MYxjs/0.jpg" alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10"/></a>
 
 <object width="560" height="315">
 <param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1"></param>
