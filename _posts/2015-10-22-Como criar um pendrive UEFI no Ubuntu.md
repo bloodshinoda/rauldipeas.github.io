@@ -25,5 +25,5 @@ sudo parted /dev/sdX set 1 boot on
 <param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1"></param>
 <param name="allowFullScreen" value="true"></param>
 <param name="allowscriptaccess" value="always"></param>
-<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="315"></embed>
+<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1" type="application/html5" allowscriptaccess="always" allowfullscreen="true" width="560" height="315"></embed>
 </object>
