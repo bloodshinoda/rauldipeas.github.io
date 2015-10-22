@@ -11,15 +11,15 @@ O processo foi tão complicado de entender inicialmente, que resolvi fazer um v�
 
 Esse método serve pra gravar qualquer tipo de imagem, seja do Linux, Windows ou OS X.
 
-Comandos utilizados no vídeo:
+# Comandos utilizados no vídeo:
 
-sudo apt-get install -y gparted p7zip
+`sudo apt-get install -y gparted p7zip`
 
-sudo mount /dev/sdX /mnt
+`sudo mount /dev/sdX /mnt`
 
-sudo 7z x ubuntu-15.04-desktop-amd64.iso -o/mnt
+`sudo 7z x ubuntu-15.04-desktop-amd64.iso -o/mnt`
 
-sudo parted /dev/sdX set 1 boot on
+`sudo parted /dev/sdX set 1 boot on` 
 
 <object width="560" height="315">
 <param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;vq=hd1080"></param>
