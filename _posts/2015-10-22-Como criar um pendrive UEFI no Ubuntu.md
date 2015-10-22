@@ -21,7 +21,9 @@ sudo 7z x ubuntu-15.04-desktop-amd64.iso -o/mnt
 
 sudo parted /dev/sdX set 1 boot on
 
-<object width="560" height="315"><param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1"></param>
+<object width="560" height="315">
+<param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1"></param>
 <param name="allowFullScreen" value="true"></param>
 <param name="allowscriptaccess" value="always"></param>
-<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="315"></embed></object>
+<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="315"></embed>
+</object>
