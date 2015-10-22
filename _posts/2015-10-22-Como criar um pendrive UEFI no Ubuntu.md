@@ -21,6 +21,9 @@ sudo 7z x ubuntu-15.04-desktop-amd64.iso -o/mnt
 
 sudo parted /dev/sdX set 1 boot on
 
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/djW5N4MYxjs/0.jpg)](http://www.youtube.com/watch?v=djW5N4MYxjs)
+
 <object width="560" height="315">
 <param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=en_US&amp;fs=1"></param>
 <param name="allowFullScreen" value="true"></param>
