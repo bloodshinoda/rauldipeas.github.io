@@ -11,7 +11,7 @@ O processo foi tão complicado de entender inicialmente, que resolvi fazer um v�
 
 Esse método serve pra gravar qualquer tipo de imagem, seja do Linux, Windows ou OS X.
 
-# Comandos utilizados no vídeo:
+#### Comandos utilizados no vídeo:
 
 `sudo apt-get install -y gparted p7zip`
 
