@@ -1,9 +1,7 @@
 ---
-published: true
+layout: post
+title: Como criar um pendrive UEFI no Ubutu
 ---
-
-
-## Como criar um pendrive UEFI no Ubuntu
 
 Eu havia tentado de várias formas executar esse procedimento, mas sem sucesso, usei programas como UNetBootIn, DD, GNOME Disks, o Criador de discos do Ubuntu, entre outros...
 
