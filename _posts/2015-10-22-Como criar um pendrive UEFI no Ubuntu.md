@@ -23,11 +23,11 @@ sudo parted /dev/sdX set 1 boot on
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=djW5N4MYxjs" target="_blank">
-<img src="http://img.youtube.com/vi/djW5N4MYxjs/0.jpg" width="100%" height="480"/></a>
+<img src="http://img.youtube.com/vi/djW5N4MYxjs/0.jpg" width="960" height="540"/></a>
 
 <object width="560" height="315">
 <param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;hq=1"></param>
 <param name="allowFullScreen" value="true"></param>
 <param name="allowscriptaccess" value="always"></param>
-<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;hq=1" allowscriptaccess="always" allowfullscreen="true" width="560" height="315"></embed>
+<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;hq=1" allowscriptaccess="always" allowfullscreen="true" width="960" height="540"></embed>
 </object>
