@@ -20,7 +20,7 @@ Esse método serve pra gravar qualquer tipo de imagem, seja do Linux, Windows ou
 
 `sudo 7z x ubuntu-15.04-desktop-amd64.iso -o/mnt`
 
-`sudo parted /dev/sdX set 1 boot on` 
+`sudo parted /dev/sdX set 1 boot on`
 
 `sudo apt-get install -y gparted p7zip`
 ```
