@@ -14,15 +14,15 @@ Esse método serve pra gravar qualquer tipo de imagem, seja do Linux, Windows ou
 ## Comandos utilizados no vídeo:
 
 ```
-`sudo apt-get install -y gparted p7zip`
+sudo apt-get install -y gparted p7zip
 
-`sudo mount /dev/sdX /mnt`
+sudo mount /dev/sdX /mnt
 
-`sudo 7z x ubuntu-15.04-desktop-amd64.iso -o/mnt`
+sudo 7z x ubuntu-15.04-desktop-amd64.iso -o/mnt
 
-`sudo parted /dev/sdX set 1 boot on`
+sudo parted /dev/sdX set 1 boot on
 
-`sudo apt-get install -y gparted p7zip`
+sudo apt-get install -y gparted p7zip
 ```
 
 
