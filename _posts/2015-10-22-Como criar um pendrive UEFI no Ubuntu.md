@@ -26,9 +26,9 @@ sudo apt-get install -y gparted p7zip
 ```
 
 
-<object align="middle" width="718,8" height="403,92">
+<object align="middle" width="721,6" height="405,9">
 <param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;vq=hd1080"></param>
 <param name="allowFullScreen" value="true"></param>
 <param name="allowscriptaccess" value="always"></param>
-<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;vq=hd1080" allowscriptaccess="always" allowfullscreen="true" width="718,8" height="403,92"></embed>
+<embed src="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;vq=hd1080" allowscriptaccess="always" allowfullscreen="true" width="721,6" height="405,9"></embed>
 </object>
