@@ -2,18 +2,18 @@
 <rss version="2.0">
 
 <channel>
-<title>RSS Example</title>
-<description>This is an example of an RSS feed</description>
+<title>Raul Dipeas - Blog</title>
+<description></description>
 <link>http://rauldipeas.github.io</link>
-<lastBuildDate>Tue, 28 Oct 2015 15:50:30 -0400 </lastBuildDate>
-<pubDate>Tue, 28 Oct 2015 15:50:30 -0400</pubDate>
+<lastBuildDate>Tue, 28 Oct 2015 15:50:30 -0300 </lastBuildDate>
+<pubDate>Tue, 28 Oct 2015 15:50:30 -0300</pubDate>
 
 <item>
 <title>Como criar um pendrive UEFI no Ubuntu</title>
 <description></description>
 <link>http://rauldipeas.github.io/Como%20criar%20um%20pendrive%20UEFI%20no%20Ubuntu/</link>
 <guid isPermaLink="false"> 1102345</guid>
-<pubDate>Tue, 28 Oct 2015 15:50:30 -0400</pubDate>
+<pubDate>Tue, 28 Oct 2015 15:50:30 -0300</pubDate>
 </item>
 
 </channel>
