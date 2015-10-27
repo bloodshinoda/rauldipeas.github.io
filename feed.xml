@@ -4,16 +4,16 @@
 <channel>
 <title>RSS Example</title>
 <description>This is an example of an RSS feed</description>
-<link>http://www.domain.com/link.htm</link>
-<lastBuildDate>Mon, 28 Aug 2006 11:12:55 -0400 </lastBuildDate>
-<pubDate>Tue, 29 Aug 2006 09:00:00 -0400</pubDate>
+<link>http://rauldipeas.github.io</link>
+<lastBuildDate>Tue, 28 Oct 2015 15:50:30 -0400 </lastBuildDate>
+<pubDate>Tue, 28 Oct 2015 15:50:30 -0400</pubDate>
 
 <item>
-<title>Item Example</title>
-<description>This is an example of an Item</description>
-<link>http://www.domain.com/link.htm</link>
+<title>Como criar um pendrive UEFI no Ubuntu</title>
+<description></description>
+<link>http://rauldipeas.github.io/Como%20criar%20um%20pendrive%20UEFI%20no%20Ubuntu/</link>
 <guid isPermaLink="false"> 1102345</guid>
-<pubDate>Tue, 29 Aug 2006 09:00:00 -0400</pubDate>
+<pubDate>Tue, 28 Oct 2015 15:50:30 -0400</pubDate>
 </item>
 
 </channel>
