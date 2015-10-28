@@ -13,7 +13,7 @@ Esse método serve pra gravar qualquer tipo de imagem, seja do Linux, Windows ou
 
 ## Comandos utilizados no vídeo:
 
-```bash
+```
 sudo apt-get install -y gparted p7zip
 
 sudo mount /dev/sdX /mnt
