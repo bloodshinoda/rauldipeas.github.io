@@ -1,6 +1,12 @@
 ---
-published: false
+layout: post
+title: Como criar um pendrive UEFI no Ubutu
 ---
+O Slack é um comunicador instantâneo para equipes, com diversos recursos adicionais através de integrações com aplicativos online para vídeo-conferência, compartilhamento de desktop, notificações de atualizações em canais de desenvolvimento, compartilhamento de arquivos, etc.
+
+Seu uso pode trazer um grande aumento de produtividade dentro de uma empresa ou até mesmo wm um pequeno grupo de trabalho.
+
+Você pode acessar o Slack online, através do seu navegador, mas para um maior aproveitamento dos recursos disponibilizados pelo aplicativo, a instalação do cliente nativo é necessária.
 
 Para instalar o aplicativo de **comunicão de equipes Slack** no **AviX**, execute os seguintes comandos no **terminal**:
 (Para abrir o terminal pressione as teclas **Ctrl+Alt+T**)
