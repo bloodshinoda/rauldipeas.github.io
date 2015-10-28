@@ -25,7 +25,6 @@ sudo parted /dev/sdX set 1 boot on
 sudo apt-get install -y gparted p7zip
 ```
 
-
 <object align="middle" width="721,6" height="405,9">
 <param name="movie" value="https://www.youtube.com/v/djW5N4MYxjs&amp;hl=pt_BR&amp;fs=1&amp;vq=hd1080"></param>
 <param name="allowFullScreen" value="true"></param>
