@@ -4,7 +4,7 @@ title: Como instalar o Slack no AviX
 ---
 O Slack é um comunicador instantâneo para equipes, com diversos recursos adicionais através de integrações com aplicativos online para vídeo-conferência, compartilhamento de desktop, notificações de atualizações em canais de desenvolvimento, compartilhamento de arquivos, etc.
 
-Seu uso pode trazer um grande aumento de produtividade dentro de uma empresa ou até mesmo wm um pequeno grupo de trabalho.
+Seu uso pode trazer um grande aumento de produtividade dentro de uma empresa ou até mesmo em um pequeno grupo de trabalho.
 
 Você pode acessar o Slack online, através do seu navegador, mas para um maior aproveitamento dos recursos disponibilizados pelo aplicativo, a instalação do cliente nativo é necessária.
 
