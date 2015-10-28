@@ -12,7 +12,7 @@ Para instalar o aplicativo de **comunicão de equipes Slack** no **AviX**, execu
 
 (Para abrir o terminal pressione as teclas **Ctrl+Alt+T**)
 
-```sh
+```bash
 cd ~/Downloads
 
 wget -c https://slack-ssb-updates.global.ssl.fastly.net/linux_releases/slack-desktop-1.2.4-amd64.deb
