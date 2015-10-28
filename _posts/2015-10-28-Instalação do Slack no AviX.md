@@ -24,4 +24,4 @@ sudo sed -i 's/Icon=slack/Icon=internet-chat/g' /usr/share/applications/slack.de
 
 Clique no **player** abaixo para uma **demonstração** da execução dos comandos.
 
-<script type="text/javascript" src="https://asciinema.org/a/28919.js" id="asciicast-28919" async></script>
+<script type="text/javascript" src="https://asciinema.org/a/28919.js" data-size="medium" id="asciicast-28919" async></script>
