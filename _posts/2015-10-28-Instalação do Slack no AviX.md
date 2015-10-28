@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como criar um pendrive UEFI no Ubutu
+title: Como instalar o Slack no AviX
 ---
 O Slack é um comunicador instantâneo para equipes, com diversos recursos adicionais através de integrações com aplicativos online para vídeo-conferência, compartilhamento de desktop, notificações de atualizações em canais de desenvolvimento, compartilhamento de arquivos, etc.
 
