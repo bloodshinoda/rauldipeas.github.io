@@ -20,4 +20,6 @@ Para instalar o aplicativo de **comunicão de equipes Slack** no **AviX**, execu
 
 `sudo sed -i 's/Icon=slack/Icon=internet-chat/g' /usr/share/applications/slack.desktop`
 
+Clique na **imagem** abaixo para uma **demonstração** da execução dos comandos.
+
 <a href="https://asciinema.org/a/28919?autoplay=1" target="_blank"><img alt="Instalação do Slack no AviX" src="https://asciinema.org/a/28919.png" style="width: 480px;"></a>
