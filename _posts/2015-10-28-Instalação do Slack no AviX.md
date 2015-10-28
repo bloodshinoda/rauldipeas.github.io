@@ -22,8 +22,4 @@ sudo dpkg -i ~/Downloads/slack-desktop-1.2.4-amd64.deb
 sudo sed -i 's/Icon=slack/Icon=internet-chat/g' /usr/share/applications/slack.desktop
 ```
 
-Clique na **imagem** abaixo para uma **demonstração** da execução dos comandos.
-
-<a href="https://asciinema.org/a/28919?autoplay=1" target="_blank"><img alt="Instalação do Slack no AviX" src="https://asciinema.org/a/28919.png" style="width: 480px;"></a>
-
 <script type="text/javascript" src="https://asciinema.org/a/28919.js" id="asciicast-28919" async></script>
