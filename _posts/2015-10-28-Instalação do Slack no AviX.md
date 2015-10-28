@@ -6,7 +6,7 @@ O Slack é um comunicador instantâneo para equipes, com diversos recursos adici
 
 Seu uso pode trazer um grande aumento de produtividade dentro de uma empresa ou até mesmo em um pequeno grupo de trabalho.
 
-Você pode acessar o Slack online, através do seu navegador, mas para um maior aproveitamento dos recursos disponibilizados pelo aplicativo, a instalação do cliente nativo é necessária.
+Você pode acessar o Slack online, através do seu navegador, mas para um maior aproveitamento dos recursos disponibilizados pelo aplicativo, a instalação do cliente nativo se faz necessária.
 
 Para instalar o aplicativo de **comunicão de equipes Slack** no **AviX**, execute os seguintes comandos no **terminal**:
 (Para abrir o terminal pressione as teclas **Ctrl+Alt+T**)
