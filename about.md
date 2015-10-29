@@ -2,14 +2,11 @@
 layout: page
 title: Sobre
 permalink: /about/
+published: true
 ---
 
-Algumas informações sobre você!
-
-### Mais informações
-
-Um lugar para incluir qualquer outro tipo de informação que você gostaria compartilhar sobre si mesmo.
+Eu sou Raul Dipeas, desenvolvedor do AviX, usuário Linux desde 2008, produtor musical há quase uma década, músico apaixonado desde os 8 anos de idade e cinéfilo aficionado por ficção científica e paradoxo temporal.
 
 ### Contate-me
 
-[rauldipeas@outlook.com](mailto:rauldipeas@outlook.com)
+ask.fm/rauldipeas
